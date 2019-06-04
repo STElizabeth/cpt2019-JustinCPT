@@ -18,19 +18,7 @@
     font-family: comic sans ms
 }
 
-/*start button*/
-.startquiz {
-    border: 1px solid lighgray;
-    font-size: 14px;
-    padding: 10px;
-    border-radius: 5px;
-    background: lightgray;
-    font-size: 15px;
-    margin: 0 auto;
-    display: inline-block;
-    
-}
- 
+
 
 /*images*/
 #image_intro_1 {
